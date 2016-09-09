@@ -1,2 +1,2 @@
 # go4algorithms
-This site is created for sharing code implemented in golang with the community
+Go 4 Algorithms is a team from Georgia Southern University. We are writing in the Go Language and Python the algorithms described in the book "Introduction to Algorithms" by Thomas H Cormen, Charles E. Leiserson, Ronald Rivest and Clifford Stein. Stay tunned... 
